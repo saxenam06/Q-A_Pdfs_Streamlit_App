@@ -1,0 +1,22 @@
+What are the advantages of integrating model-free and model-based methods?
+
+Could their integration be advantageous for safety as well?
+
+Did I ask you about the advantages or disadvantages?
+
+
+I enquire you about the advantages of integration of which methods? 
+
+Did I enquire you about the benefits due to integration of some methods in safety? 
+
+Which two framweworks or methods are integrated in the document?
+
+training of the neural network with RL suffers from
+
+so which method is proposed in the paper to handle this?
+
+tell me more the benefits of this method?
+
+inefficient exploration in policy space and even unstable
+learning
+
